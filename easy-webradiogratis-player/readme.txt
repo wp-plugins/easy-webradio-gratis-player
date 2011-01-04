@@ -2,7 +2,7 @@
 Tags: radio, web radio, shoutcast, icecast
 Requires at least: 3.0.1
 Tested up to: 3.0.1
-Stable tag: 0.1
+Stable tag: 0.2
 
 Widget that plays your web radio system www.webradiogratis.com/en/ service, free internet web radio with shoutcast and centovacast.
 
