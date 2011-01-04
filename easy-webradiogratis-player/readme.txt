@@ -23,6 +23,8 @@ e.g.
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Widget activaction put your radio username
 
+== Screenshots == 
+http://player.webradiogratis.com/img/sample-widget.png
 
 == Frequently Asked Questions ==
 
@@ -30,8 +32,12 @@ e.g.
 
 http://www.webradiogratis.com/forum/
 
+== Upgrade Notice == 
+Improving the performance of the swf file
 
 == Changelog ==
 
 = 0.1 =
 * Insert player in your wordpress
+= 0.2 =
+* Update the swf file to a best performace
